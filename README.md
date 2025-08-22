@@ -2,4 +2,4 @@
  Gestión de Archivos y Modularización en Python
  Prof. Andrés Mena Abarca
 # Autor:
-## Fecha 2025/08/22 
+## Fecha 22/08/2025
